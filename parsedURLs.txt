@@ -1,0 +1,39 @@
+URL: http://fiu.gov
+Protocol: http
+Host: fiu.gov
+Path: (empty)
+
+URL: http://neverssl.com
+Protocol: http
+Host: neverssl.com
+Path: (empty)
+
+URL: http://google.com/404
+Protocol: http
+Host: google.com
+Path: /404
+
+URL: http://google.com
+Protocol: http
+Host: google.com
+Path: (empty)
+
+URL: http://inet.cs.fiu.edu/temp/deny.html
+Protocol: http
+Host: inet.cs.fiu.edu
+Path: /temp/deny.html
+
+URL: http://inet.cs.fiu.edu/page.html
+Protocol: http
+Host: inet.cs.fiu.edu
+Path: /page.html
+
+URL: http://inet.cs.fiu.edu/temp/page.html
+Protocol: http
+Host: inet.cs.fiu.edu
+Path: /temp/page.html
+
+URL: https://www.fiu.edu
+Protocol: https
+Host: www.fiu.edu
+Path: (empty)
