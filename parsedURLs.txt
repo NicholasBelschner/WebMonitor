@@ -1,40 +1,47 @@
 URL: http://fiu.gov
-
 Protocol: http
 Host: fiu.gov
+Path: ""
 Port: 80
-URL: http://neverssl.com
 
+URL: http://neverssl.com
 Protocol: http
 Host: neverssl.com
+Path: ""
 Port: 80
+
 URL: http://google.com/404
-
 Protocol: http
 Host: google.com
+Path: "/404"
 Port: 80
+
 URL: http://google.com
-
 Protocol: http
 Host: google.com
+Path: ""
 Port: 80
+
 URL: http://inet.cs.fiu.edu/temp/deny.html
-
 Protocol: http
 Host: inet.cs.fiu.edu
+Path: "/temp/deny.html"
 Port: 80
+
 URL: http://inet.cs.fiu.edu/page.html
-
 Protocol: http
 Host: inet.cs.fiu.edu
+Path: "/page.html"
 Port: 80
+
 URL: http://inet.cs.fiu.edu/temp/page.html
-
 Protocol: http
 Host: inet.cs.fiu.edu
+Path: "/temp/page.html"
 Port: 80
-URL: https://www.fiu.edu
 
+URL: https://www.fiu.edu
 Protocol: https
 Host: www.fiu.edu
+Path: ""
 Port: 443
